@@ -6,6 +6,7 @@ namespace BaltaCourse_Console_Dotnet_EditorHTML
     {
         static void Main(string[] args)
         {
+            var teste = "";
             Menu.Show();
         }
     }
